@@ -12,7 +12,7 @@
   
   ## 📊 &nbsp;My activities
   <a href="https://github.com/JulianBuchner">
-    <img width=450 height=170 align="center" alt="fsengsei" src="https://github-readme-stats.vercel.app/api?username=fsengsei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" />
+    <img width=450 height=170 align="center" alt="fsengsei" src="https://github-readme-stats.vercel.app/api?username=fsengsei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/JulianBuchner">
     <img align="center" alt="JulianBuchner" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsengsei&layout=compact&langs_count=16&theme=dracula" />
